@@ -1,0 +1,21 @@
+button {
+
+    width: 100%;
+}
+
+input[type="Email"], 
+input[type="password"] {
+
+    width: 100%
+}
+
+.esqueceu-Senha {
+
+    float: right
+}
+
+
+.box {
+
+    width: 300px
+}
